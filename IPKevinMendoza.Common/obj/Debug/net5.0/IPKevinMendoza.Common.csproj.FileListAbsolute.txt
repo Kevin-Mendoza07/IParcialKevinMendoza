@@ -1,0 +1,12 @@
+C:\Users\JADPA28\Downloads\CleanArchitecture-master\IPKevinMendoza.Common\bin\Debug\net5.0\IPKevinMendoza.Common.deps.json
+C:\Users\JADPA28\Downloads\CleanArchitecture-master\IPKevinMendoza.Common\bin\Debug\net5.0\IPKevinMendoza.Common.dll
+C:\Users\JADPA28\Downloads\CleanArchitecture-master\IPKevinMendoza.Common\bin\Debug\net5.0\ref\IPKevinMendoza.Common.dll
+C:\Users\JADPA28\Downloads\CleanArchitecture-master\IPKevinMendoza.Common\bin\Debug\net5.0\IPKevinMendoza.Common.pdb
+C:\Users\JADPA28\Downloads\CleanArchitecture-master\IPKevinMendoza.Common\obj\Debug\net5.0\IPKevinMendoza.Common.csproj.AssemblyReference.cache
+C:\Users\JADPA28\Downloads\CleanArchitecture-master\IPKevinMendoza.Common\obj\Debug\net5.0\IPKevinMendoza.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JADPA28\Downloads\CleanArchitecture-master\IPKevinMendoza.Common\obj\Debug\net5.0\IPKevinMendoza.Common.AssemblyInfoInputs.cache
+C:\Users\JADPA28\Downloads\CleanArchitecture-master\IPKevinMendoza.Common\obj\Debug\net5.0\IPKevinMendoza.Common.AssemblyInfo.cs
+C:\Users\JADPA28\Downloads\CleanArchitecture-master\IPKevinMendoza.Common\obj\Debug\net5.0\IPKevinMendoza.Common.csproj.CoreCompileInputs.cache
+C:\Users\JADPA28\Downloads\CleanArchitecture-master\IPKevinMendoza.Common\obj\Debug\net5.0\IPKevinMendoza.Common.dll
+C:\Users\JADPA28\Downloads\CleanArchitecture-master\IPKevinMendoza.Common\obj\Debug\net5.0\ref\IPKevinMendoza.Common.dll
+C:\Users\JADPA28\Downloads\CleanArchitecture-master\IPKevinMendoza.Common\obj\Debug\net5.0\IPKevinMendoza.Common.pdb

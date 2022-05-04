@@ -1,0 +1,17 @@
+C:\Users\JADPA28\Downloads\CleanArchitecture-master\IPKevinMendoza.Infraestructure\bin\Debug\net5.0\IPKevinMendoza.Infraestructure.deps.json
+C:\Users\JADPA28\Downloads\CleanArchitecture-master\IPKevinMendoza.Infraestructure\bin\Debug\net5.0\IPKevinMendoza.Infraestructure.dll
+C:\Users\JADPA28\Downloads\CleanArchitecture-master\IPKevinMendoza.Infraestructure\bin\Debug\net5.0\ref\IPKevinMendoza.Infraestructure.dll
+C:\Users\JADPA28\Downloads\CleanArchitecture-master\IPKevinMendoza.Infraestructure\bin\Debug\net5.0\IPKevinMendoza.Infraestructure.pdb
+C:\Users\JADPA28\Downloads\CleanArchitecture-master\IPKevinMendoza.Infraestructure\bin\Debug\net5.0\IPKevinMendoza.Common.dll
+C:\Users\JADPA28\Downloads\CleanArchitecture-master\IPKevinMendoza.Infraestructure\bin\Debug\net5.0\IPKevinMendoza.Domain.dll
+C:\Users\JADPA28\Downloads\CleanArchitecture-master\IPKevinMendoza.Infraestructure\bin\Debug\net5.0\IPKevinMendoza.Common.pdb
+C:\Users\JADPA28\Downloads\CleanArchitecture-master\IPKevinMendoza.Infraestructure\bin\Debug\net5.0\IPKevinMendoza.Domain.pdb
+C:\Users\JADPA28\Downloads\CleanArchitecture-master\IPKevinMendoza.Infraestructure\obj\Debug\net5.0\IPKevinMendoza.Infraestructure.csproj.AssemblyReference.cache
+C:\Users\JADPA28\Downloads\CleanArchitecture-master\IPKevinMendoza.Infraestructure\obj\Debug\net5.0\IPKevinMendoza.Infraestructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JADPA28\Downloads\CleanArchitecture-master\IPKevinMendoza.Infraestructure\obj\Debug\net5.0\IPKevinMendoza.Infraestructure.AssemblyInfoInputs.cache
+C:\Users\JADPA28\Downloads\CleanArchitecture-master\IPKevinMendoza.Infraestructure\obj\Debug\net5.0\IPKevinMendoza.Infraestructure.AssemblyInfo.cs
+C:\Users\JADPA28\Downloads\CleanArchitecture-master\IPKevinMendoza.Infraestructure\obj\Debug\net5.0\IPKevinMendoza.Infraestructure.csproj.CoreCompileInputs.cache
+C:\Users\JADPA28\Downloads\CleanArchitecture-master\IPKevinMendoza.Infraestructure\obj\Debug\net5.0\IPKevinMendoza.Infraestructure.csproj.CopyComplete
+C:\Users\JADPA28\Downloads\CleanArchitecture-master\IPKevinMendoza.Infraestructure\obj\Debug\net5.0\IPKevinMendoza.Infraestructure.dll
+C:\Users\JADPA28\Downloads\CleanArchitecture-master\IPKevinMendoza.Infraestructure\obj\Debug\net5.0\ref\IPKevinMendoza.Infraestructure.dll
+C:\Users\JADPA28\Downloads\CleanArchitecture-master\IPKevinMendoza.Infraestructure\obj\Debug\net5.0\IPKevinMendoza.Infraestructure.pdb
