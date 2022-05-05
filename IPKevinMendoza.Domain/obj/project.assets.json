@@ -8,23 +8,19 @@
     "net5.0": []
   },
   "packageFolders": {
-    "C:\\Users\\JADPA28\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\USUARIO\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\JADPA28\\Downloads\\CleanArchitecture-master\\IPKevinMendoza.Domain\\IPKevinMendoza.Domain.csproj",
+      "projectUniqueName": "C:\\Users\\USUARIO\\ExamenProgramacionII\\IParcialKevinMendoza\\IPKevinMendoza.Domain\\IPKevinMendoza.Domain.csproj",
       "projectName": "IPKevinMendoza.Domain",
-      "projectPath": "C:\\Users\\JADPA28\\Downloads\\CleanArchitecture-master\\IPKevinMendoza.Domain\\IPKevinMendoza.Domain.csproj",
-      "packagesPath": "C:\\Users\\JADPA28\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\JADPA28\\Downloads\\CleanArchitecture-master\\IPKevinMendoza.Domain\\obj\\",
+      "projectPath": "C:\\Users\\USUARIO\\ExamenProgramacionII\\IParcialKevinMendoza\\IPKevinMendoza.Domain\\IPKevinMendoza.Domain.csproj",
+      "packagesPath": "C:\\Users\\USUARIO\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\USUARIO\\ExamenProgramacionII\\IParcialKevinMendoza\\IPKevinMendoza.Domain\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "C:\\Users\\JADPA28\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\USUARIO\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

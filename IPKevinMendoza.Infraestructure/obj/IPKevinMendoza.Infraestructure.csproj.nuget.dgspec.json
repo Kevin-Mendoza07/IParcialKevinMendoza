@@ -1,23 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\JADPA28\\Downloads\\CleanArchitecture-master\\IPKevinMendoza.Infraestructure\\IPKevinMendoza.Infraestructure.csproj": {}
+    "C:\\Users\\USUARIO\\ExamenProgramacionII\\IParcialKevinMendoza\\IPKevinMendoza.Infraestructure\\IPKevinMendoza.Infraestructure.csproj": {}
   },
   "projects": {
-    "C:\\Users\\JADPA28\\Downloads\\CleanArchitecture-master\\IPKevinMendoza.Common\\IPKevinMendoza.Common.csproj": {
+    "C:\\Users\\USUARIO\\ExamenProgramacionII\\IParcialKevinMendoza\\IPKevinMendoza.Common\\IPKevinMendoza.Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\JADPA28\\Downloads\\CleanArchitecture-master\\IPKevinMendoza.Common\\IPKevinMendoza.Common.csproj",
+        "projectUniqueName": "C:\\Users\\USUARIO\\ExamenProgramacionII\\IParcialKevinMendoza\\IPKevinMendoza.Common\\IPKevinMendoza.Common.csproj",
         "projectName": "IPKevinMendoza.Common",
-        "projectPath": "C:\\Users\\JADPA28\\Downloads\\CleanArchitecture-master\\IPKevinMendoza.Common\\IPKevinMendoza.Common.csproj",
-        "packagesPath": "C:\\Users\\JADPA28\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\JADPA28\\Downloads\\CleanArchitecture-master\\IPKevinMendoza.Common\\obj\\",
+        "projectPath": "C:\\Users\\USUARIO\\ExamenProgramacionII\\IParcialKevinMendoza\\IPKevinMendoza.Common\\IPKevinMendoza.Common.csproj",
+        "packagesPath": "C:\\Users\\USUARIO\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\USUARIO\\ExamenProgramacionII\\IParcialKevinMendoza\\IPKevinMendoza.Common\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\JADPA28\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\USUARIO\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -67,20 +64,17 @@
         }
       }
     },
-    "C:\\Users\\JADPA28\\Downloads\\CleanArchitecture-master\\IPKevinMendoza.Domain\\IPKevinMendoza.Domain.csproj": {
+    "C:\\Users\\USUARIO\\ExamenProgramacionII\\IParcialKevinMendoza\\IPKevinMendoza.Domain\\IPKevinMendoza.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\JADPA28\\Downloads\\CleanArchitecture-master\\IPKevinMendoza.Domain\\IPKevinMendoza.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\USUARIO\\ExamenProgramacionII\\IParcialKevinMendoza\\IPKevinMendoza.Domain\\IPKevinMendoza.Domain.csproj",
         "projectName": "IPKevinMendoza.Domain",
-        "projectPath": "C:\\Users\\JADPA28\\Downloads\\CleanArchitecture-master\\IPKevinMendoza.Domain\\IPKevinMendoza.Domain.csproj",
-        "packagesPath": "C:\\Users\\JADPA28\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\JADPA28\\Downloads\\CleanArchitecture-master\\IPKevinMendoza.Domain\\obj\\",
+        "projectPath": "C:\\Users\\USUARIO\\ExamenProgramacionII\\IParcialKevinMendoza\\IPKevinMendoza.Domain\\IPKevinMendoza.Domain.csproj",
+        "packagesPath": "C:\\Users\\USUARIO\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\USUARIO\\ExamenProgramacionII\\IParcialKevinMendoza\\IPKevinMendoza.Domain\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\JADPA28\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\USUARIO\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -124,20 +118,17 @@
         }
       }
     },
-    "C:\\Users\\JADPA28\\Downloads\\CleanArchitecture-master\\IPKevinMendoza.Infraestructure\\IPKevinMendoza.Infraestructure.csproj": {
+    "C:\\Users\\USUARIO\\ExamenProgramacionII\\IParcialKevinMendoza\\IPKevinMendoza.Infraestructure\\IPKevinMendoza.Infraestructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\JADPA28\\Downloads\\CleanArchitecture-master\\IPKevinMendoza.Infraestructure\\IPKevinMendoza.Infraestructure.csproj",
+        "projectUniqueName": "C:\\Users\\USUARIO\\ExamenProgramacionII\\IParcialKevinMendoza\\IPKevinMendoza.Infraestructure\\IPKevinMendoza.Infraestructure.csproj",
         "projectName": "IPKevinMendoza.Infraestructure",
-        "projectPath": "C:\\Users\\JADPA28\\Downloads\\CleanArchitecture-master\\IPKevinMendoza.Infraestructure\\IPKevinMendoza.Infraestructure.csproj",
-        "packagesPath": "C:\\Users\\JADPA28\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\JADPA28\\Downloads\\CleanArchitecture-master\\IPKevinMendoza.Infraestructure\\obj\\",
+        "projectPath": "C:\\Users\\USUARIO\\ExamenProgramacionII\\IParcialKevinMendoza\\IPKevinMendoza.Infraestructure\\IPKevinMendoza.Infraestructure.csproj",
+        "packagesPath": "C:\\Users\\USUARIO\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\USUARIO\\ExamenProgramacionII\\IParcialKevinMendoza\\IPKevinMendoza.Infraestructure\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\JADPA28\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\USUARIO\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -151,11 +142,11 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\JADPA28\\Downloads\\CleanArchitecture-master\\IPKevinMendoza.Common\\IPKevinMendoza.Common.csproj": {
-                "projectPath": "C:\\Users\\JADPA28\\Downloads\\CleanArchitecture-master\\IPKevinMendoza.Common\\IPKevinMendoza.Common.csproj"
+              "C:\\Users\\USUARIO\\ExamenProgramacionII\\IParcialKevinMendoza\\IPKevinMendoza.Common\\IPKevinMendoza.Common.csproj": {
+                "projectPath": "C:\\Users\\USUARIO\\ExamenProgramacionII\\IParcialKevinMendoza\\IPKevinMendoza.Common\\IPKevinMendoza.Common.csproj"
               },
-              "C:\\Users\\JADPA28\\Downloads\\CleanArchitecture-master\\IPKevinMendoza.Domain\\IPKevinMendoza.Domain.csproj": {
-                "projectPath": "C:\\Users\\JADPA28\\Downloads\\CleanArchitecture-master\\IPKevinMendoza.Domain\\IPKevinMendoza.Domain.csproj"
+              "C:\\Users\\USUARIO\\ExamenProgramacionII\\IParcialKevinMendoza\\IPKevinMendoza.Domain\\IPKevinMendoza.Domain.csproj": {
+                "projectPath": "C:\\Users\\USUARIO\\ExamenProgramacionII\\IParcialKevinMendoza\\IPKevinMendoza.Domain\\IPKevinMendoza.Domain.csproj"
               }
             }
           }

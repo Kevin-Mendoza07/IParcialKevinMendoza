@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "IPKevinMendoza.AppCore/1.0.0": {
+        "dependencies": {
+          "IPKevinMendoza.Domain": "1.0.0"
+        },
+        "runtime": {
+          "IPKevinMendoza.AppCore.dll": {}
+        }
+      },
+      "IPKevinMendoza.Domain/1.0.0": {
+        "runtime": {
+          "IPKevinMendoza.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "IPKevinMendoza.AppCore/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "IPKevinMendoza.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -38,12 +38,12 @@ namespace IPKevinMendoza.Domain.Entitites
         public int visibility { get; set; }
         public int wind_speed { get; set; }
         public int wind_deg { get; set; }
-        public List<Weather> weather { get; set; }
+        public List<weather> weather { get; set; }
     }
 
     public class Hourly
     {
-        public int dt { get; set; }
+        public long dt { get; set; }
         public double temp { get; set; }
         public double feels_like { get; set; }
         public int pressure { get; set; }

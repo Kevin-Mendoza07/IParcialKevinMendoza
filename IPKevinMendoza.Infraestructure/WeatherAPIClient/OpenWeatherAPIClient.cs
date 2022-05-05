@@ -11,8 +11,12 @@ using System.Threading.Tasks;
 
 namespace IPKevinMendoza.Infraestructure.WeatherAPIClient
 {
-    public class OpenWeatherAPIClient:IOpenWeatherClient
+    public class OpenWeatherAPIClient:IOpenWeatherAPIClient
     {
+        private double lat;
+        private double lon;
+        private long dt;
+        private static List<OpenWeather> Weathers=new List<OpenWeather>();
         public async Task<OpenWeather> GetWeatherAsync(string city)
         {
 
@@ -30,7 +34,12 @@ namespace IPKevinMendoza.Infraestructure.WeatherAPIClient
                     throw new NullReferenceException("El objeto json no puede ser null.");
                 }
 
-                return JsonConvert.DeserializeObject<OpenWeather>(jsonObject);
+                OpenWeather open= JsonConvert.DeserializeObject<OpenWeather>(jsonObject);
+                lon = open.Coord.Lon;
+                lat=open.Coord.Lat;
+                dt = open.Dt;
+                Weathers.Add(open);
+                return open;
             }
             catch (Exception)
             {
@@ -38,10 +47,30 @@ namespace IPKevinMendoza.Infraestructure.WeatherAPIClient
             }
 
         }
-
-        public async Task<OneCallAPI> GetOneCallAsync(double lat, double lon, long dt)
+        public async Task<OneCallAPI> GetOneCallAsync()
         {
-            return null;
+
+            string url = $"{AppSettings.ApiUrlOneCall}lat={lat}&lon={lon}&dt={dt}&appid={ AppSettings.Token}";
+            string jsonObject = string.Empty;
+
+            try
+            {
+                using(HttpClient httpClient = new HttpClient())
+                {
+                    jsonObject= await httpClient.GetAsync(url).Result.Content.ReadAsStringAsync();
+                }
+
+                if (string.IsNullOrEmpty(jsonObject))
+                {
+                    throw new NullReferenceException("El objeto json no puede ser null.");
+                }
+                OneCallAPI oneCall= JsonConvert.DeserializeObject<OneCallAPI>(jsonObject);
+                return oneCall;
+            }
+            catch (Exception)
+            {
+                throw;
+            }
         }
     }
 }

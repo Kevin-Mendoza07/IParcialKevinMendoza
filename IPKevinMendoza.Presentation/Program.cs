@@ -1,3 +1,8 @@
+using Autofac;
+using IPKevinMendoza.AppCore.Interfaces;
+using IPKevinMendoza.AppCore.Services;
+using IPKevinMendoza.Domain.Interfaces;
+using IPKevinMendoza.Infraestructure.Repositories;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -14,10 +19,16 @@ namespace IPKevinMendoza.Presentation
         [STAThread]
         static void Main()
         {
+            var builder = new ContainerBuilder();
+            builder.RegisterType<BinaryWeatherRepository>().As<IWeatherRepository>();
+            builder.RegisterType<WeatherServices>().As<IWeatherServices>();
+
+            var container=builder.Build();
+
             Application.SetHighDpiMode(HighDpiMode.SystemAware);
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form1());
+            Application.Run(new Form1(container.Resolve<IWeatherServices>()));
         }
     }
 }

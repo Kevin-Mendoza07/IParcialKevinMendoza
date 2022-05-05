@@ -7,9 +7,9 @@ using System.Threading.Tasks;
 
 namespace IPKevinMendoza.Domain.Interfaces
 {
-    public interface IOpenWeatherClient
+    public interface IOpenWeatherAPIClient
     {
         Task<OpenWeather> GetWeatherAsync(string city);
-        Task<OneCallAPI> GetOneCallAsync(double lat, double lon, long dt);
+        Task<OneCallAPI> GetOneCallAsync();
     }
 }

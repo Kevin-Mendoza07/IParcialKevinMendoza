@@ -30,7 +30,7 @@ namespace IPKevinMendoza.Presentation
         private void InitializeComponent()
         {
             this.label1 = new System.Windows.Forms.Label();
-            this.cmbFiltarr = new System.Windows.Forms.ComboBox();
+            this.cmbFiltrar = new System.Windows.Forms.ComboBox();
             this.btnBuscar = new System.Windows.Forms.Button();
             this.dataGridView1 = new System.Windows.Forms.DataGridView();
             this.btnSalir = new System.Windows.Forms.Button();
@@ -47,13 +47,13 @@ namespace IPKevinMendoza.Presentation
             this.label1.Text = "Busquedas recientes: ";
             this.label1.Click += new System.EventHandler(this.label1_Click);
             // 
-            // cmbFiltarr
+            // cmbFiltrar
             // 
-            this.cmbFiltarr.FormattingEnabled = true;
-            this.cmbFiltarr.Location = new System.Drawing.Point(180, 20);
-            this.cmbFiltarr.Name = "cmbFiltarr";
-            this.cmbFiltarr.Size = new System.Drawing.Size(145, 23);
-            this.cmbFiltarr.TabIndex = 1;
+            this.cmbFiltrar.FormattingEnabled = true;
+            this.cmbFiltrar.Location = new System.Drawing.Point(180, 20);
+            this.cmbFiltrar.Name = "cmbFiltrar";
+            this.cmbFiltrar.Size = new System.Drawing.Size(145, 23);
+            this.cmbFiltrar.TabIndex = 1;
             // 
             // btnBuscar
             // 
@@ -63,6 +63,7 @@ namespace IPKevinMendoza.Presentation
             this.btnBuscar.TabIndex = 2;
             this.btnBuscar.Text = "Buscar";
             this.btnBuscar.UseVisualStyleBackColor = true;
+            this.btnBuscar.Click += new System.EventHandler(this.btnBuscar_Click);
             // 
             // dataGridView1
             // 
@@ -91,7 +92,7 @@ namespace IPKevinMendoza.Presentation
             this.Controls.Add(this.btnSalir);
             this.Controls.Add(this.dataGridView1);
             this.Controls.Add(this.btnBuscar);
-            this.Controls.Add(this.cmbFiltarr);
+            this.Controls.Add(this.cmbFiltrar);
             this.Controls.Add(this.label1);
             this.Name = "FrmHistorial";
             this.Text = "FrmHistorial";
@@ -104,9 +105,9 @@ namespace IPKevinMendoza.Presentation
         #endregion
 
         private System.Windows.Forms.Label label1;
-        public System.Windows.Forms.ComboBox cmbFiltarr;
+        public System.Windows.Forms.ComboBox cmbFiltrar;
         private System.Windows.Forms.Button btnBuscar;
-        private System.Windows.Forms.DataGridView dataGridView1;
         private System.Windows.Forms.Button btnSalir;
+        public System.Windows.Forms.DataGridView dataGridView1;
     }
 }

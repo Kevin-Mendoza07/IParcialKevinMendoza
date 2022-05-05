@@ -1,0 +1,15 @@
+C:\Users\USUARIO\ExamenProgramacionII\IParcialKevinMendoza\IPKevinMendoza.AppCore\bin\Debug\net5.0\IPKevinMendoza.AppCore.deps.json
+C:\Users\USUARIO\ExamenProgramacionII\IParcialKevinMendoza\IPKevinMendoza.AppCore\bin\Debug\net5.0\IPKevinMendoza.AppCore.dll
+C:\Users\USUARIO\ExamenProgramacionII\IParcialKevinMendoza\IPKevinMendoza.AppCore\bin\Debug\net5.0\IPKevinMendoza.AppCore.pdb
+C:\Users\USUARIO\ExamenProgramacionII\IParcialKevinMendoza\IPKevinMendoza.AppCore\bin\Debug\net5.0\IPKevinMendoza.Domain.dll
+C:\Users\USUARIO\ExamenProgramacionII\IParcialKevinMendoza\IPKevinMendoza.AppCore\bin\Debug\net5.0\IPKevinMendoza.Domain.pdb
+C:\Users\USUARIO\ExamenProgramacionII\IParcialKevinMendoza\IPKevinMendoza.AppCore\obj\Debug\net5.0\IPKevinMendoza.AppCore.csproj.AssemblyReference.cache
+C:\Users\USUARIO\ExamenProgramacionII\IParcialKevinMendoza\IPKevinMendoza.AppCore\obj\Debug\net5.0\IPKevinMendoza.AppCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\ExamenProgramacionII\IParcialKevinMendoza\IPKevinMendoza.AppCore\obj\Debug\net5.0\IPKevinMendoza.AppCore.AssemblyInfoInputs.cache
+C:\Users\USUARIO\ExamenProgramacionII\IParcialKevinMendoza\IPKevinMendoza.AppCore\obj\Debug\net5.0\IPKevinMendoza.AppCore.AssemblyInfo.cs
+C:\Users\USUARIO\ExamenProgramacionII\IParcialKevinMendoza\IPKevinMendoza.AppCore\obj\Debug\net5.0\IPKevinMendoza.AppCore.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\ExamenProgramacionII\IParcialKevinMendoza\IPKevinMendoza.AppCore\obj\Debug\net5.0\IPKevinMendoza.AppCore.csproj.CopyComplete
+C:\Users\USUARIO\ExamenProgramacionII\IParcialKevinMendoza\IPKevinMendoza.AppCore\obj\Debug\net5.0\IPKevinMendoza.AppCore.dll
+C:\Users\USUARIO\ExamenProgramacionII\IParcialKevinMendoza\IPKevinMendoza.AppCore\obj\Debug\net5.0\refint\IPKevinMendoza.AppCore.dll
+C:\Users\USUARIO\ExamenProgramacionII\IParcialKevinMendoza\IPKevinMendoza.AppCore\obj\Debug\net5.0\IPKevinMendoza.AppCore.pdb
+C:\Users\USUARIO\ExamenProgramacionII\IParcialKevinMendoza\IPKevinMendoza.AppCore\obj\Debug\net5.0\ref\IPKevinMendoza.AppCore.dll

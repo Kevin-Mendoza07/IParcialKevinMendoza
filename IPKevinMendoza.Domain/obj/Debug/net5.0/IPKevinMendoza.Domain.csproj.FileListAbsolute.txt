@@ -10,3 +10,15 @@ C:\Users\JADPA28\Downloads\CleanArchitecture-master\IPKevinMendoza.Domain\obj\De
 C:\Users\JADPA28\Downloads\CleanArchitecture-master\IPKevinMendoza.Domain\obj\Debug\net5.0\IPKevinMendoza.Domain.dll
 C:\Users\JADPA28\Downloads\CleanArchitecture-master\IPKevinMendoza.Domain\obj\Debug\net5.0\ref\IPKevinMendoza.Domain.dll
 C:\Users\JADPA28\Downloads\CleanArchitecture-master\IPKevinMendoza.Domain\obj\Debug\net5.0\IPKevinMendoza.Domain.pdb
+C:\Users\USUARIO\ExamenProgramacionII\IParcialKevinMendoza\IPKevinMendoza.Domain\bin\Debug\net5.0\IPKevinMendoza.Domain.deps.json
+C:\Users\USUARIO\ExamenProgramacionII\IParcialKevinMendoza\IPKevinMendoza.Domain\bin\Debug\net5.0\IPKevinMendoza.Domain.dll
+C:\Users\USUARIO\ExamenProgramacionII\IParcialKevinMendoza\IPKevinMendoza.Domain\bin\Debug\net5.0\IPKevinMendoza.Domain.pdb
+C:\Users\USUARIO\ExamenProgramacionII\IParcialKevinMendoza\IPKevinMendoza.Domain\obj\Debug\net5.0\IPKevinMendoza.Domain.csproj.AssemblyReference.cache
+C:\Users\USUARIO\ExamenProgramacionII\IParcialKevinMendoza\IPKevinMendoza.Domain\obj\Debug\net5.0\IPKevinMendoza.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\ExamenProgramacionII\IParcialKevinMendoza\IPKevinMendoza.Domain\obj\Debug\net5.0\IPKevinMendoza.Domain.AssemblyInfoInputs.cache
+C:\Users\USUARIO\ExamenProgramacionII\IParcialKevinMendoza\IPKevinMendoza.Domain\obj\Debug\net5.0\IPKevinMendoza.Domain.AssemblyInfo.cs
+C:\Users\USUARIO\ExamenProgramacionII\IParcialKevinMendoza\IPKevinMendoza.Domain\obj\Debug\net5.0\IPKevinMendoza.Domain.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\ExamenProgramacionII\IParcialKevinMendoza\IPKevinMendoza.Domain\obj\Debug\net5.0\IPKevinMendoza.Domain.dll
+C:\Users\USUARIO\ExamenProgramacionII\IParcialKevinMendoza\IPKevinMendoza.Domain\obj\Debug\net5.0\refint\IPKevinMendoza.Domain.dll
+C:\Users\USUARIO\ExamenProgramacionII\IParcialKevinMendoza\IPKevinMendoza.Domain\obj\Debug\net5.0\IPKevinMendoza.Domain.pdb
+C:\Users\USUARIO\ExamenProgramacionII\IParcialKevinMendoza\IPKevinMendoza.Domain\obj\Debug\net5.0\ref\IPKevinMendoza.Domain.dll
